@@ -1,0 +1,6 @@
+2023/02/23-12:58:25.700 1dfc Creating DB D:/Repository_Ekkkk/FirstGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/02/23-12:58:25.785 1dfc Reusing MANIFEST D:/Repository_Ekkkk/FirstGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/23-12:59:33.939 1dfc Level-0 table #5: started
+2023/02/23-12:59:33.976 1dfc Level-0 table #5: 8807 bytes OK
+2023/02/23-12:59:34.006 1dfc Delete type=0 #3
+2023/02/23-12:59:34.006 1dfc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
