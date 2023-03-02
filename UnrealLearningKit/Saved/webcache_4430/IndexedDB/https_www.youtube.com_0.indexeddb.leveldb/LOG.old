@@ -1,0 +1,6 @@
+2023/03/02-17:09:36.268 ca0 Creating DB D:/Repository_Ekkkk/UnrealLearningKit/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/02-17:09:36.445 ca0 Reusing MANIFEST D:/Repository_Ekkkk/UnrealLearningKit/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-17:11:32.452 1a34 Level-0 table #5: started
+2023/03/02-17:11:32.492 1a34 Level-0 table #5: 6956 bytes OK
+2023/03/02-17:11:32.534 1a34 Delete type=0 #3
+2023/03/02-17:11:32.535 1a34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
